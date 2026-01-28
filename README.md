@@ -16,7 +16,7 @@ Save time. Reduce errors. Automate everything
 How to use:
 1. Download this script as a single file
 2. Move it to the location of project folder
-3. Run "./MernSetup.sh"
+3. Run "./MernSetup.sh" in terminal
 
 THis will setup a basic client and server folder with a default format
 To start Client: npm start
