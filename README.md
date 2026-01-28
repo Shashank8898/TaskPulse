@@ -1,8 +1,8 @@
-AutoShell (or your chosen name)
+TaskPulse
 
 Automate. Simplify. Command.
 
-AutoShell is a powerful Bash automation toolkit that turns long, repetitive tasks into a single command. No more manual labor—just write, run, and watch your scripts do the work for you.
+TaskPulse is a powerful Bash automation toolkit that turns long, repetitive tasks into a single command. No more manual labor—just write, run, and watch your scripts do the work for you.
 
 🔹 Single-command execution: Combine multiple steps into one effortless command.
 
