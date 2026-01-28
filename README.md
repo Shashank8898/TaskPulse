@@ -18,6 +18,6 @@ How to use:
 2. Move it to the location of project folder
 3. Run "./MernSetup.sh" in terminal
 
-THis will setup a basic client and server folder with a default format
+THis will setup a basic client and server folder with a default format:
 To start Client: npm start
 To start Server: npm run dev
