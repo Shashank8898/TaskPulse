@@ -11,12 +11,13 @@ TaskPulse is a powerful Bash automation toolkit that turns long, repetitive task
 🔹 Time-saving automation: Focus on what matters, let AutoShell handle the boring stuff.
 
 🔹 Perfect for sysadmins, devs, and power users
+Save time. Reduce errors. Automate everything
 
-Example:
+How to use:
+1. Download this script as a single file
+2. Move it to the location of project folder
+3. Run "./MernSetup.sh"
 
-autoshell backup-all
-
-
-…runs backups, cleans temp files, and updates your system automatically.
-
-Save time. Reduce errors. Automate everything.
+THis will setup a basic client and server folder with a default format
+To start Client: npm start
+To start Server: npm run dev
